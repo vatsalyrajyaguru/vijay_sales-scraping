@@ -1,6 +1,6 @@
 # Hi, I'm Vatsaly! 👋
 
--  Croma scrapy 
+-  Vijay sales scrapy 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
@@ -23,6 +23,7 @@
 
     - first install python latest version.
     - Download ide like vs-code (any other your favorite ide).
+        -https://code.visualstudio.com/download
 
     - Download some library for this project.
     - And download command is 
@@ -33,6 +34,7 @@
         - scrapy
         - json
         - math (as your requirement)
+        - BeautifulSoup
         - datetime (as your requirement)
 
 ## Usage
